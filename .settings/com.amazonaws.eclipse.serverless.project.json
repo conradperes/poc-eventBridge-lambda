@@ -1,0 +1,1 @@
+{"packagePrefix":"com.serverless.demo","lastDeploymentRegionId":"sa-east-1","regionConfig":{"sa-east-1":{"bucket":"bv-access-logs-staging","stack":"hello-stack"}}}
